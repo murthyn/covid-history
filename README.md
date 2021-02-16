@@ -1,4 +1,4 @@
-# ca-fires-history
+# covid-history
 
 Tracking COVID vaccine appointments from https://lvc.lhs.org/7QPZHS83
 
