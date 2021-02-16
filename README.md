@@ -1,7 +1,7 @@
 # ca-fires-history
 
-Tracking fire data from www.fire.ca.gov/incidents
+Tracking COVID vaccine appointments from https://lvc.lhs.org/7QPZHS83
 
-This repo archives the latest version of https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents every twenty minutes, if it has changed.
+This repo archives the latest version of https://lvc.lhs.org/7QPZHS83 every twenty minutes, if it has changed.
 
 Background on this project: [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
